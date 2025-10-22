@@ -23,7 +23,7 @@ A real-time webcam filter application that uses ml5.js and PoseNet to detect hum
 
 
 
-<strong><a href="https://www.google.com/search?q=https://sarthakdwivedi78.github.io/Posenet/" target="_blank">➡️ Click Here for the Live Demo ⬅️</a></strong>
+<strong><a href="sarthakdwivedi78.github.io/Posenet/" target="_blank">➡️ Click Here for the Live Demo ⬅️</a></strong>
 </p>
 
 🚀 Project Overview
