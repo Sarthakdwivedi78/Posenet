@@ -6,25 +6,7 @@ PoseNet Filter App
 A real-time webcam filter application that uses ml5.js and PoseNet to detect human poses and overlay fun augmented reality (AR) filters.
 </p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5 Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3 Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/p5.js-ED225D%3Fstyle%3Dfor-the-badge%26logo%3Dp5dotjs%26logoColor%3Dwhite" alt="p5.js Badge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ml5.js-F9A825%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dblack" alt="ml5.js Badge">
-</p>
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://sarthakdwivedi78.github.io/Posenet/" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/800x450/2d3748/ffffff%3Ftext%3DLive%2BApp%2BDemo\n(Click+to+Try!)" alt="Live App Demo">
-</a>
-
-
-
-
-
-<strong><a href="[[sarthakdwivedi78.github.io/Posenet/](https://sarthakdwivedi78.github.io/Posenet/)](https://sarthakdwivedi78.github.io/Posenet/)">➡️ Click Here for the Live Demo ⬅️</a></strong>
-</p>
 
 🚀 Project Overview
 
