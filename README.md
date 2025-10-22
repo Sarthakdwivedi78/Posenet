@@ -8,6 +8,12 @@ A real-time webcam filter application that uses ml5.js and PoseNet to detect hum
 
 
 
+https://github.com/user-attachments/assets/cec31450-eed3-4706-b5f7-2657f1129d52
+
+
+
+
+
 🚀 Project Overview
 
 This application captures video from a webcam and processes it in real-time using the PoseNet model to identify the locations of key body joints (like eyes, nose, shoulders, etc.). Based on the detected pose, it can overlay images and draw skeletons, creating interactive filters.
